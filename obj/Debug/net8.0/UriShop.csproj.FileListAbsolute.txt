@@ -252,3 +252,4 @@ C:\Users\jarroyo\Desktop\UriShop\obj\Debug\net8.0\refint\UriShop.dll
 C:\Users\jarroyo\Desktop\UriShop\obj\Debug\net8.0\UriShop.pdb
 C:\Users\jarroyo\Desktop\UriShop\obj\Debug\net8.0\UriShop.genruntimeconfig.cache
 C:\Users\jarroyo\Desktop\UriShop\obj\Debug\net8.0\ref\UriShop.dll
+C:\Users\jarroyo\Desktop\UriShop\obj\Debug\net8.0\UriShop.sourcelink.json
